@@ -85,5 +85,6 @@ ENV/
 # Spyder project settings
 .spyderproject
 
+*.csv
 # Rope project settings
 .ropeproject
