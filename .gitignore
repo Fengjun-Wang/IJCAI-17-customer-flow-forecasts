@@ -86,5 +86,7 @@ ENV/
 .spyderproject
 
 *.csv
+*.pkl
+/weather/aqistudy-master/api
 # Rope project settings
 .ropeproject
